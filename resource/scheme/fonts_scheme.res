@@ -9,7 +9,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"9"
                     "antialias"									"1"
                 }
@@ -18,7 +18,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"10"
                     "antialias"									"1"
                 }
@@ -27,7 +27,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"10"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -37,7 +37,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"11"
                     "antialias"									"1"
                 }
@@ -46,7 +46,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"11"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -56,7 +56,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "antialias"									"1"
                 }
@@ -65,7 +65,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -75,7 +75,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"14"
                     "antialias"									"1"
                 }
@@ -84,7 +84,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"14"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -94,7 +94,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"16"
                     "antialias"									"1"
                 }
@@ -103,7 +103,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"16"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -113,7 +113,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"18"
                     "antialias"									"1"
                 }
@@ -122,7 +122,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"18"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -132,7 +132,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"18"
                     "antialias"									"1"
                     "outline"									"1"
@@ -142,7 +142,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare_numbers"
+                    "name"										"renogare_soft_regular_numbers"
                     "Tall"										"18"
                     "antialias"									"1"
                     "outline"									"1"
@@ -152,7 +152,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"20"
                     "antialias"									"1"
                 }
@@ -161,7 +161,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"24"
                     "antialias"									"1"
                 }
@@ -170,7 +170,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"24"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -180,7 +180,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"24"
                     "antialias"									"1"
                     "outline"									"1"
@@ -190,7 +190,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare_numbers"
+                    "name"										"renogare_soft_regular_numbers"
                     "Tall"										"24"
                     "antialias"									"1"
                     "outline"									"1"
@@ -200,7 +200,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"26"
                     "antialias"									"1"
                 }
@@ -209,7 +209,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"30"
                     "antialias"									"1"
                 }
@@ -218,7 +218,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"30"
                     "antialias"									"1"
                     "outline"									"1"
@@ -228,7 +228,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare_numbers"
+                    "name"										"renogare_soft_regular_numbers"
                     "Tall"										"30"
                     "antialias"									"1"
                     "outline"									"1"
@@ -238,7 +238,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"32"
                     "antialias"									"1"
                 }
@@ -247,7 +247,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"32"
                     "antialias"									"1"
                     "dropshadow"								"1"
@@ -257,7 +257,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"36"
                     "antialias"									"1"
                 }
@@ -266,7 +266,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"48"
                     "antialias"									"1"
                 }
@@ -275,7 +275,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"58"
                     "antialias"									"1"
                 }
@@ -1377,7 +1377,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "range"										"0x0000 0x017F"
                     "antialias"									"1"
@@ -1388,7 +1388,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "italic"									"1"
                     "range"										"0x0000 0x017F"
@@ -1400,7 +1400,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "range"										"0x0000 0x017F"
                     "antialias"									"1"
@@ -1411,7 +1411,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "italic"									"1"
                     "range"										"0x0000 0x017F"
@@ -1423,7 +1423,7 @@
             {
                 "1"
                 {
-                    "name"										"renogare"
+                    "name"										"renogare_soft_regular"
                     "Tall"										"12"
                     "range"										"0x0000 0x017F"
                     "antialias"									"1"
@@ -3008,7 +3008,7 @@
 		"3"
 		{
 			"Font"		"resource/scheme/fonts/renogare.ttf"
-			"name"		"renogare"
+			"name"		"renogare_soft_regular"
 		}
 		"4"
 		{
